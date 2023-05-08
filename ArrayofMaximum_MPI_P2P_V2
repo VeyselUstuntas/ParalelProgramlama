@@ -70,7 +70,7 @@ int main(int argc, char* argv[])
         }
         else
         {
-            cout << "Veriler Ýþlemcilere Tam Paylaþtýrýlamaýyor" << endl;
+            cout << "Veriler ÃÃ¾lemcilere Tam PaylaÃ¾tÃ½rÃ½lamaÃ½yor" << endl;
             MPI_Abort(MPI_COMM_WORLD, 99);
         }
     }
